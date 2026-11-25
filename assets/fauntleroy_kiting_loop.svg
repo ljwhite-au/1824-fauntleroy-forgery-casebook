@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360" font-family="Helvetica, Arial, sans-serif">
+  <rect width="960" height="360" fill="#F8FAFC"/>
+  <text x="480" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#1E293B">The Henry Fauntleroy Forgery Scandal (1824): Custodial Forgery &amp; Ghost-Dividend Loop</text>
+  <text x="480" y="48" text-anchor="middle" font-size="11" fill="#475569">Old Bailey (t18241028-97) · Fairburn (1824) · BoE Archive 1A95/4 · Bleackley (1916) · Stone v. Marsh · Marsh v. Keating</text>
+
+  <rect x="25" y="75" width="170" height="92" rx="7" fill="#7F1D1D"/>
+  <text x="110" y="99" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#FFFFFF">1. Forged BoE POA</text>
+  <text x="110" y="118" text-anchor="middle" font-size="9.5" fill="#FEE2E2">Forged Clerk Witnesses</text>
+  <text x="110" y="134" text-anchor="middle" font-size="9.5" fill="#FEE2E2">16 Tin-Box: £188,187.80</text>
+  <text x="110" y="151" text-anchor="middle" font-size="9.5" fill="#FDE68A">50/50 Split via Martin &amp; Co.</text>
+
+  <rect x="215" y="75" width="170" height="92" rx="7" fill="#7F1D1D"/>
+  <text x="300" y="99" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#FFFFFF">2. Dual Dividend Lists</text>
+  <text x="300" y="118" text-anchor="middle" font-size="9.5" fill="#FEE2E2">BoE Red-Check: £550 (£8.25)</text>
+  <text x="300" y="134" text-anchor="middle" font-size="9.5" fill="#FEE2E2">Passbook: £5,550 (£83.25)</text>
+  <text x="300" y="151" text-anchor="middle" font-size="9.5" fill="#FDE68A">£75/Half-Yr Phantom Gap</text>
+
+  <rect x="405" y="75" width="170" height="92" rx="7" fill="#7F1D1D"/>
+  <text x="490" y="99" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#FFFFFF">3. Kiting Death Spiral</text>
+  <text x="490" y="118" text-anchor="middle" font-size="9.5" fill="#FEE2E2">Young: £1,350 (45.7% Burn)</text>
+  <text x="490" y="134" text-anchor="middle" font-size="9.5" fill="#FEE2E2">Tin-Box: £55,559.64 Drain</text>
+  <text x="490" y="151" text-anchor="middle" font-size="9.5" fill="#FDE68A">£50k Hidden Private Ledger</text>
+
+  <rect x="595" y="75" width="170" height="92" rx="7" fill="#1E293B"/>
+  <text x="680" y="99" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#FFFFFF">4. Arrest &amp; Restitution</text>
+  <text x="680" y="118" text-anchor="middle" font-size="9.5" fill="#E2E8F0">10 Sep 1824 Arrest; Tin Box</text>
+  <text x="680" y="134" text-anchor="middle" font-size="9.5" fill="#E2E8F0">BoE Loss: £360,000 Gross</text>
+  <text x="680" y="151" text-anchor="middle" font-size="9.5" fill="#FDE68A">+62.96% Replacement Squeeze</text>
+
+  <rect x="785" y="75" width="150" height="92" rx="7" fill="#334155"/>
+  <text x="860" y="99" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#FFFFFF">5. 27-Yr Workout</text>
+  <text x="860" y="118" text-anchor="middle" font-size="9.5" fill="#E2E8F0">7 Divs: 11s. 2 1/8d. / £1</text>
+  <text x="860" y="134" text-anchor="middle" font-size="9.5" fill="#E2E8F0">£310,386 Paid (55.6%)</text>
+  <text x="860" y="151" text-anchor="middle" font-size="9.5" fill="#FDE68A">Stone &amp; Keating Rulings</text>
+
+  <line x1="195" y1="121" x2="215" y2="121" stroke="#7F1D1D" stroke-width="2.5"/>
+  <line x1="385" y1="121" x2="405" y2="121" stroke="#7F1D1D" stroke-width="2.5"/>
+  <line x1="575" y1="121" x2="595" y2="121" stroke="#1E293B" stroke-width="2.5"/>
+  <line x1="765" y1="121" x2="785" y2="121" stroke="#334155" stroke-width="2.5"/>
+
+  <rect x="25" y="198" width="910" height="135" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+  <text x="45" y="224" font-size="12.5" font-weight="bold" fill="#1E293B">Key 1824 Forensic Proofs (Berners Street Ledger)</text>
+  <text x="45" y="247" font-size="10.5" fill="#334151">• Exact Tin-Box Sum: All 16 verbatim May 7, 1816 lines sum to £188,187 16s. 0d. (vs. "above £170,000" courtroom rounding).</text>
+  <text x="45" y="268" font-size="10.5" fill="#334151">• Split-Brokerage Proof: £5,000 x 59.125% (£2,956.25) - £6.25 full brokerage + £3.125 banker split = £2,953.125 exact (£0.0000 diff).</text>
+  <text x="45" y="289" font-size="10.5" fill="#334151">• Secular Bond-Rally Squeeze: Replacing Miss Young's £5,000 Consols @ 96.25% in Oct 1824 cost £4,812.50 (+£1,859.38 / +62.96%).</text>
+  <text x="45" y="310" font-size="10.5" fill="#334151">• Decisive Modern Control: Direct Bank-to-client holding statements (ISA 501) would have exposed the fraud on the very first coupon cycle.</text>
+</svg>

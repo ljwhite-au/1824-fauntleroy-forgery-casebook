@@ -1,0 +1,7 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+Copyright (c) 2026 Henry Fauntleroy Forgery Scandal (1824) Casebook Contributors
+
+Applies to: README.md, casebook.md, 1824_Fauntleroy_Forgery_Casebook.pdf, instructor_debrief.md, data/sources_index.md, assets/*, workbook/1824_fauntleroy_challenge.xlsx, and workbook/1824_fauntleroy_solution_key.xlsx.
+
+Full legal code: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
